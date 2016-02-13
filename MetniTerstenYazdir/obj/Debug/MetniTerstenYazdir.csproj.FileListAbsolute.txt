@@ -1,0 +1,9 @@
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\MetniTerstenYazdir\MetniTerstenYazdir\bin\Debug\MetniTerstenYazdir.exe.config
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\MetniTerstenYazdir\MetniTerstenYazdir\bin\Debug\MetniTerstenYazdir.exe
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\MetniTerstenYazdir\MetniTerstenYazdir\bin\Debug\MetniTerstenYazdir.pdb
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\MetniTerstenYazdir\MetniTerstenYazdir\obj\Debug\MetniTerstenYazdir.csprojResolveAssemblyReference.cache
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\MetniTerstenYazdir\MetniTerstenYazdir\obj\Debug\MetniTerstenYazdir.Form1.resources
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\MetniTerstenYazdir\MetniTerstenYazdir\obj\Debug\MetniTerstenYazdir.Properties.Resources.resources
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\MetniTerstenYazdir\MetniTerstenYazdir\obj\Debug\MetniTerstenYazdir.csproj.GenerateResource.Cache
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\MetniTerstenYazdir\MetniTerstenYazdir\obj\Debug\MetniTerstenYazdir.exe
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\MetniTerstenYazdir\MetniTerstenYazdir\obj\Debug\MetniTerstenYazdir.pdb
